@@ -15,3 +15,4 @@ npm install
 cp .env.example .env.local   # fill in values
 npm run dev
 ```
+live love laugh
